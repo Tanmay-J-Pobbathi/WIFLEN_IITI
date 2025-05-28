@@ -6,6 +6,7 @@ This repository contains the folder structure and contributions from interns wor
 
 Each intern or batch is assigned a dedicated folder:
 
+```
 WIFLEN_IITI/
 ├── 2ndYearECG/
 ├── 2ndYearWIFLEN/
@@ -13,32 +14,41 @@ WIFLEN_IITI/
 ├── Adwin/
 ├── Athish/
 ├── DataScience/
+```
 
+## 🚀 Getting Started
 
+### 1. Clone the Repository
 
-1. git clone https://github.com/KiranD0721/WIFLEN_IITI.git
+```bash
+git clone https://github.com/KiranD0721/WIFLEN_IITI.git
 cd WIFLEN_IITI
+```
 
+### 2. Navigate to Your Assigned Folder
 
-2. Navigate to Your Assigned Folder
+```bash
 cd <your-folder-name>
+```
 
-Add Your Work
 Add your files inside your respective folder. This can include:
-Code files
-Reports
-Documentation
-Plots or output screenshots
+- Code files  
+- Reports  
+- Documentation  
+- Plots or output screenshots
 
-3. Commit and Push
+### 3. Commit and Push Your Changes
 
+```bash
 git add .
 git commit -m "Added work for <Your Name or Task>"
 git push origin main
+```
 
+## ✅ Guidelines
 
-✅ Guidelines
-Only modify files in your assigned folder.
-Do not delete or overwrite others' content.
-Commit often with clear messages.
-Keep your folder organized.
+- Only modify files in your assigned folder.
+- Do not delete or overwrite others' content.
+- Commit often with clear messages.
+- Keep your folder organized.
+
