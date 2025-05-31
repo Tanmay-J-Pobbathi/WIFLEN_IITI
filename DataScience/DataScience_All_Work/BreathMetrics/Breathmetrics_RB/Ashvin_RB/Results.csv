@@ -1,0 +1,5 @@
+Duration,Breathing Rate 1,Breathing Rate 2,Inhale Interbreath Interval 1,Inhale Interbreath Interval 2,Exhale Interbreath Interval 1,Exhale Interbreath Interval 2,Interbreath Interval 1,Interbreath Interval 2,Tidal Volume Rate 1,Tidal Volume Rate 2,Minute Ventilation 1,Minute Ventilation 2
+0 min to 1 min,20.033,14.221,1.701,1.048,1.294,3.171,2.995,4.219,1184.39,1818.69,23726.88,25863.59
+1 min to 2 min,18.105,16.732,1.749,1.919,1.565,1.667,3.314,3.586,935.26,1389.11,16932.88,23242.59
+2 min to 3 min,11.945,13.535,2.195,2.207,2.828,2.226,5.023,4.433,1185.67,1368.7,14162.83,18525.35
+0 min to 3 min,16.62,14.677,1.85,1.733,1.759,2.355,3.61,4.088,1113.88,1530.48,18512.69,22462.85
